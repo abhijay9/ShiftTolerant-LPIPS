@@ -9,7 +9,27 @@
 
 ### Quick start
 
-Please run `python lpips_2imgs.py`
+`pip install stlpips_pytorch`
+
+```python
+from stlpips_pytorch import stlpips
+from stlpips_pytorch import utils
+
+path0 = "<dir>/ShiftTolerant-LPIPS/imgs/ex_p0.png"
+path1 = "<dir>/ShiftTolerant-LPIPS/imgs/ex_ref.png"
+
+img0 = utils.im2tensor(utils.load_image(path0))
+img1 = utils.im2tensor(utils.load_image(path1))
+
+stlpips_metric = stlpips.LPIPS(net="alex", variant="shift_tolerant")
+
+stlpips_distance = stlpips_metric(img0,img1).item()
+```
+
+or, please clone this repo and run 
+```python 
+python lpips_2imgs.py
+```
 
 ### Training
 
