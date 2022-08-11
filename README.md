@@ -61,6 +61,9 @@ Please download the original BAPPS dataset using this [script (here)](https://gi
 
 To reproduce the results in the paper run the following:
 ```python
+
+# bash n_pixel_shift_study/test_scripts/test.sh <net> <variant> <gpu_id> <img_resize> <batch_size>
+
 # AlexNet Vanilla
 nohup bash n_pixel_shift_study/test_scripts/test.sh alex vanilla 0 64 50 > logs/eval_alex_vanilla.out &
 
