@@ -3,7 +3,7 @@
 
 **Shift-tolerant Perceptual Similarity Metric**
 
-[Abhijay Ghildyal](https://abhijay9.github.io/), [Feng Liu](http://web.cecs.pdx.edu/~fliu/). In ECCV, 2022. [[Arxiv]](https://arxiv.org/abs/2207.13686), [[PyPI]](https://pypi.org/project/stlpips-pytorch/)
+[Abhijay Ghildyal](https://abhijay9.github.io/), [Feng Liu](http://web.cecs.pdx.edu/~fliu/). In ECCV, 2022. [[Arxiv]](https://arxiv.org/abs/2207.13686), [[PyPI]](https://pypi.org/project/stlpips-pytorch/), [[video]](https://www.youtube.com/watch?v=F6C5VQJGIrM)
 
 <img src="https://abhijay9.github.io/images/stlpips_teaser.gif" width=300>
 
