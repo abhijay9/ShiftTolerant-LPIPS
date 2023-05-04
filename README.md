@@ -91,7 +91,7 @@ If you find this repository useful for your research, please use the following.
 ```
 @inproceedings{ghildyal2022stlpips,
   title={Shift-tolerant Perceptual Similarity Metric},
-  author={Ghildyal, Abhijay and Liu, Feng},
+  author={Abhijay Ghildyal and Feng Liu},
   booktitle={European Conference on Computer Vision},
   year={2022}
 }
