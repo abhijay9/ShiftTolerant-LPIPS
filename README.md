@@ -3,7 +3,8 @@
 
 ### Update
 
-**[2023-May]** Please also consider reading our follow-up study on [Attacking perceptual similarity metrics](https://github.com/abhijay9/attacking_perceptual_similarity_metrics) (TMLR'23 $\textcolor{red}{\text{Featured Certification}}$).
+[2023 Aug] Added ST-LPIPS to [PyTorch Toolbox for Image Quality Assessment](https://github.com/chaofengc/IQA-PyTorch).  
+[2023 May] Please also consider reading our follow-up study on [Attacking perceptual similarity metrics](https://github.com/abhijay9/attacking_perceptual_similarity_metrics) (TMLR'23 $\textcolor{red}{\text{Featured Certification}}$).
 
 ## Shift-tolerant Perceptual Similarity Metric
 
