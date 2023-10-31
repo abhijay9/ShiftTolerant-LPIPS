@@ -5,7 +5,7 @@
 
 [2023 Aug] Added ST-LPIPS to [PyTorch Toolbox for Image Quality Assessment](https://github.com/chaofengc/IQA-PyTorch).  
 
-[2023 May] In the ST-LPIPS work (available in this repository), we developed a perceptual similarity metric that remains robust even in the presence of imperceptible pixel shifts. However, stronger corruptions can be generated via adversarial attacks. Consequently, _**in a separate study**_, we conducted a systematic investigation of the robustness of both traditional and learned perceptual similarity metrics against imperceptible adversarial perturbations. Our findings reveal that all metrics are susceptible to such attacks. Please consider reading our study on '[Attacking Perceptual Similarity Metrics](https://github.com/abhijay9/attacking_perceptual_similarity_metrics)' (TMLR'23 $\textcolor{red}{\text{Featured Certification}}$) for more details.
+[2023 May] In the ST-LPIPS work (available in this repository), we developed a perceptual similarity metric that remains robust even in the presence of imperceptible pixel shifts. However, stronger corruptions can be generated via adversarial attacks. Consequently, _**in a separate study**_, we conducted a systematic investigation of the robustness of both traditional and learned perceptual similarity metrics against imperceptible adversarial perturbations. Our findings reveal that all metrics are susceptible to such attacks. For details, please consider reading our study on '[Attacking Perceptual Similarity Metrics](https://github.com/abhijay9/attacking_perceptual_similarity_metrics)' (TMLR'23 $\textcolor{red}{\text{Featured Certification}}$).
 
 ## Shift-tolerant Perceptual Similarity Metric
 
