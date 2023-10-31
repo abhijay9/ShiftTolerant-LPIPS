@@ -1,15 +1,15 @@
 
 # ShiftTolerant-LPIPS
 
-**Shift-tolerant Perceptual Similarity Metric**
+### Update
+
+**[2023-May]** Please also consider reading our follow-up study on [Attacking perceptual similarity metrics](https://github.com/abhijay9/attacking_perceptual_similarity_metrics) (TMLR'23 $\textcolor{red}{\text{Featured Certification}}$).
+
+## Shift-tolerant Perceptual Similarity Metric
 
 [Abhijay Ghildyal](https://abhijay9.github.io/), [Feng Liu](http://web.cecs.pdx.edu/~fliu/). In ECCV, 2022. [[Arxiv]](https://arxiv.org/abs/2207.13686), [[PyPI]](https://pypi.org/project/stlpips-pytorch/), [[video]](https://www.youtube.com/watch?v=F6C5VQJGIrM)
 
 <img src="https://abhijay9.github.io/images/stlpips_teaser.gif" width=300>
-
-### Update
-
-**[2023-May]** Please also consider reading our follow-up study on [Attacking perceptual similarity metrics](https://github.com/abhijay9/attacking_perceptual_similarity_metrics) (TMLR'23 $\textcolor{red}{\text{Featured Certification}}$).
 
 ### Quick start
 
